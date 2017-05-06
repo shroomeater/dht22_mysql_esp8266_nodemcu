@@ -7,4 +7,4 @@ El resultado se puede visualizar en el siguiente enlace:
 
 http://leaflet.esy.es/grafico.php
 
-![Captura](http://shroomeater.github.io/dht22_mysql_esp8266_nodemcu/graficophp.jpg)
+![Captura](https://github.com/shroomeater/dht22_mysql_esp8266_nodemcu/blob/master/graficophp.jpg)
