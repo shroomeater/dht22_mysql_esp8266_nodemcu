@@ -8,3 +8,8 @@ El resultado se puede visualizar en el siguiente enlace:
 http://leaflet.esy.es/grafico.php
 
 ![Captura](https://github.com/shroomeater/dht22_mysql_esp8266_nodemcu/blob/master/graficophp.jpg)
+
+
+Basado enteremante del siguiente enlace, aqui esta muy bien explicado, esta en Portugues/brasileño
+
+http://www.clubedohardware.com.br/forums/topic/1207213-tutorial-esp8266-dht11-google-charts/
