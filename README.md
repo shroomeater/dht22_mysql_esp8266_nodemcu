@@ -3,5 +3,8 @@ Subir datos a una base de datos MYSQL usando un sensor DHT22 y el ESP8266 / Uplo
 
 El resultado se puede visualizar en el siguiente enlace:
 
+### Enlace:
+
 http://leaflet.esy.es/grafico.php
 
+(http://shroomeater.github.io/dht22_mysql_esp8266_nodemcu/graficophp.jpg)
